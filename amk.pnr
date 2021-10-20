@@ -1,4 +1,0 @@
-ROOT  $HOME
-ADD   bin/amk
-ADD   bin/amk2.0
-PURGE bin/amk2.0/*~

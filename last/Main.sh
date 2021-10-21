@@ -81,7 +81,7 @@ then
     echo   "ListDelta (LD): List delta between basket and checksum list"
     echo   ""
     printf "\033[34;47mPackage Generation\033[m\n"
-    echo              "------------------\n"
+    echo              "------------------"
     echo   "Generate         (GEN): Generate TGZ archive from basket file"
     echo   "GenerateFileList (GFL): Generate file list of selected basket"
     echo   "GenerateCheckSum (GCS): Generate checksum of target files from basket"

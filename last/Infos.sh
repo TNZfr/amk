@@ -66,6 +66,9 @@ fi
 
 # Generation des listes
 # ---------------------
+ExecuteModule $PanierTmp $RootTGZ
+[ $? -ne 0 ] && rm -rf $RepTmp && exit 1
+
 grep "^EXCLUDE " $PanierTmp|cut -d' ' -f2-|sed 's/ /\n/g' > $ExclusionTmp
 grep "^ADD "     $PanierTmp|cut -d' ' -f2-|sed 's/ /\n/g' > $ContenuTmp
 grep "^PURGE "   $PanierTmp|cut -d' ' -f2-|sed 's/ /\n/g' > $PurgeTmp

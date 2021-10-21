@@ -1,0 +1,2 @@
+ROOT   $HOME
+MODULE ./amk_module.sh 2.1

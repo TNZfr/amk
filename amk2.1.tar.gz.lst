@@ -1,6 +1,6 @@
-lrwxrwxrwx tnizet/tnizet     0 2021-10-21 11:28 bin/amk -> amk2.1/Main.sh
-drwxrwxr-x tnizet/tnizet     0 2021-10-21 11:28 bin/amk2.1/
--rwxr-xr-x tnizet/tnizet   677 2021-10-21 11:26 bin/amk2.1/_amklib.sh
+lrwxrwxrwx tnizet/tnizet     0 2021-10-21 11:59 bin/amk -> amk2.1/Main.sh
+drwxrwxr-x tnizet/tnizet     0 2021-10-21 11:59 bin/amk2.1/
+-rwxr-xr-x tnizet/tnizet   663 2021-10-21 11:58 bin/amk2.1/_amklib.sh
 -rwxr-xr-x tnizet/tnizet   509 2021-10-20 17:10 bin/amk2.1/SaveLog.sh
 -rwxr-xr-x tnizet/tnizet  2376 2021-10-20 17:10 bin/amk2.1/GenerateCheckSum.sh
 -rwxr-xr-x tnizet/tnizet  3234 2021-10-20 17:13 bin/amk2.1/GenerateFileList.sh

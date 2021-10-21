@@ -21,6 +21,6 @@ function ExecuteModule
 	[ $? -ne 0 ] && return 1
     done
     grep -e ^ADD -e ^EXCLUDE -e ^PURGE $PanierTmp.AjoutModule >> $PanierTmp
-cat $PanierTmp
+
     return 0
 }

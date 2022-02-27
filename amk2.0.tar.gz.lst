@@ -1,12 +1,12 @@
-lrwxrwxrwx tnizet/tnizet     0 2021-10-19 17:43 bin/amk -> amk2.0/Main.sh
-drwxrwxr-x tnizet/tnizet     0 2021-10-20 14:48 bin/amk2.0/
--rwxr-xr-x tnizet/tnizet   180 2021-10-19 17:55 bin/amk2.0/_amklib.sh
--rwxr-xr-x tnizet/tnizet   509 2021-10-19 17:34 bin/amk2.0/SaveLog.sh
--rwxr-xr-x tnizet/tnizet  2376 2021-10-20 11:01 bin/amk2.0/GenerateCheckSum.sh
--rwxr-xr-x tnizet/tnizet  3158 2021-10-20 10:59 bin/amk2.0/GenerateFileList.sh
--rwxr-xr-x tnizet/tnizet  3802 2021-10-19 17:55 bin/amk2.0/Generate.sh
--rwxr-xr-x tnizet/tnizet  2573 2021-10-20 11:04 bin/amk2.0/ListDelta.sh
--rwxr-xr-x tnizet/tnizet  4280 2021-10-20 14:47 bin/amk2.0/Main.sh
--rwxr-xr-x tnizet/tnizet  4743 2021-10-19 17:49 bin/amk2.0/Infos.sh
--rwxr-xr-x tnizet/tnizet   318 2021-10-19 17:46 bin/amk2.0/FullInfos.sh
--rwxr-xr-x tnizet/tnizet  3970 2021-10-20 11:09 bin/amk2.0/BuildDelta.sh
+lrwxrwxrwx tnz/tnz     0 2021-10-19 17:43 bin/amk -> amk2.0/Main.sh
+drwxrwxr-x tnz/tnz     0 2021-10-20 14:48 bin/amk2.0/
+-rwxr-xr-x tnz/tnz   180 2021-10-19 17:55 bin/amk2.0/_amklib.sh
+-rwxr-xr-x tnz/tnz   509 2021-10-19 17:34 bin/amk2.0/SaveLog.sh
+-rwxr-xr-x tnz/tnz  2376 2021-10-20 11:01 bin/amk2.0/GenerateCheckSum.sh
+-rwxr-xr-x tnz/tnz  3158 2021-10-20 10:59 bin/amk2.0/GenerateFileList.sh
+-rwxr-xr-x tnz/tnz  3802 2021-10-19 17:55 bin/amk2.0/Generate.sh
+-rwxr-xr-x tnz/tnz  2573 2021-10-20 11:04 bin/amk2.0/ListDelta.sh
+-rwxr-xr-x tnz/tnz  4280 2021-10-20 14:47 bin/amk2.0/Main.sh
+-rwxr-xr-x tnz/tnz  4743 2021-10-19 17:49 bin/amk2.0/Infos.sh
+-rwxr-xr-x tnz/tnz   318 2021-10-19 17:46 bin/amk2.0/FullInfos.sh
+-rwxr-xr-x tnz/tnz  3970 2021-10-20 11:09 bin/amk2.0/BuildDelta.sh
